@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<a href="https://stackoverflow.com/users/11448549/simon"><img src="https://stackoverflow.com/users/flair/11448549.png" width="208" height="58" alt="profile for Simon at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Simon at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a align='center' href="https://stackoverflow.com/users/11448549/simon?theme=clair"><img src="https://stackoverflow.com/users/flair/11448549.png" width="208" height="58" alt="profile for Simon at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Simon at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
