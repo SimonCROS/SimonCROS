@@ -13,3 +13,5 @@
     <img src="https://badge42.vercel.app/api/v2/cl1netid2001609lbwj2e61z9/stats?cursusId=21&coalitionId=49" />
   </a>
 </p>
+
+<a href="https://stackoverflow.com/users/11448549/simon"><img src="https://stackoverflow.com/users/flair/11448549.png" width="208" height="58" alt="profile for Simon at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Simon at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
