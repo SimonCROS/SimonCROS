@@ -10,7 +10,7 @@
 
 <p align='center'>
   <a href="https://github.com/JaeSeoKim/badge42">
-    <img src="https://badge42.vercel.app/api/v2/cl1netid2001609lbwj2e61z9/stats?cursusId=21&coalitionId=49" />
+    <img src="https://badge42.vercel.app/api/v2/cl1netid2001609lbwj2e61z9/stats?cursusId=21&coalitionId=303" alt="scros's 42 stats" />
   </a>
 </p>
 
